@@ -1,0 +1,6 @@
+{
+  "name": "WA Web Android Wrapper",
+  "description": "Aplikasi Android (Java) WebView wrapper untuk WhatsApp Web kompatibel Android 6 (API 23) dengan JavaScript, DOM Storage, runtime permissions, FileProvider onShowFileChooser, persistent cookies, dan custom User-Agent.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
